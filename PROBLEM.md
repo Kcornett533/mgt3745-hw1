@@ -42,7 +42,7 @@
 
 *It is not easy to come up with a problem statement for this issue, since we were unsure whether or not there was an issue with the paper, or the reviewer had a personal vendetta against it. There was no immediate and ultimate test for this problem, because sending the paper back to the same publication didn't seem like an option. We considered sending it to another publication, but that is not an immediate solution to the problem at hand. There was a lack of trial and error opportunities, since the odds of a publication accepting your paper after revoking it once are slim, and all rejection occurences are listed in the publication when the paper gets published. The publishers of the paper, or those with their name on it, were liable for the consequences of the solution. The reviewer had issues with the honesty of the paper, as he believed the paper's ties to our company may have biased the framing of the paper. This means that any actions taken to change the opinion on our paper may not be a fully honest and scientific paper.*
 
-**Verdict:**
+**Verdict: I believe it has the qualities of a WICKED problem.**
 
 ---
 
